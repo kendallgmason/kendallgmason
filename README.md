@@ -12,7 +12,7 @@
 
 ⚡ Fun fact(s): I love basketball, wwe and all things star wars! I also used to work as a vicar and celerant! 
 
-👩🏾‍💻 Technologies
+### 👩🏾‍💻 Technologies
 
 [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>](<LINK>)
 [<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>](<LINK>)
