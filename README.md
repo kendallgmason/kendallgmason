@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact(s): I love basketball, star wars and wwe! I also used to work as in the charity sector. 
+⚡ Fun fact(s): I love basketball, wwe and all things star wars! I also used to work as a vicar and celerant! 
 
 👩🏾‍💻 Technologies
 
