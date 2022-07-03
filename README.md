@@ -1,24 +1,11 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+nice+to+meet+you.+I'm+Kendall!)](https://git.io/typing-svg)
 
-My name is Kendall, I'm from Houston, Texas, but live in Worthing, UK on the South Coast of England.
+💁🏾‍♀️ I'm a South Coast based full-stack developer
+🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code
+👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
+📫 How to reach me: @kendallgcodes on twitter!
+😄 Pronouns: he/him
+⚡ Fun fact(s): I love basketball, star wars and wwe! I also used to work as in the charity sector. 
 
-I've just come out of being a managing director of a charity and vicar for 6 years and on the adventure of a lifetime learning how to code. 
-
-I've currently been working through all of the front end side of freecodecamp and the odin project. I'm starting a 16 week, life changing bootcamp called School of Code to become job ready as a software engineer. 
-
-Follow my journey here. You'll find my projects here starting 25 April 2022. Thanks for checking out my journey and have a great day. 
-
-<!--
-**kendallgmason/kendallgmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏾‍💻 Technologies
+HTML5 CSS3 JavaScript Nodejs NPM Express Postman React Next JS Postgres Heroku Netlify Git
