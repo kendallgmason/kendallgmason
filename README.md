@@ -12,7 +12,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact(s): I love basketball, wwe and all things star wars! I also used to work as a vicar and celerant! 
+⚡ Fun fact(s): I love basketball, wwe and all things star wars! I also used to work as a vicar and celebrant(someone who leads weddings and funerals)! 
 
 
 
