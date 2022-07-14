@@ -2,7 +2,7 @@
 
 
 
-💁🏾‍♀️ I'm a South Coast based full-stack developer
+:adult: I'm a South Coast based full-stack developer
 
 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code
 
