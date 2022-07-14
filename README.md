@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+nice+to+meet+you.+I'm+Kendall!)](https://git.io/typing-svg)
 
 
-
-:adult: I'm a South Coast based full-stack developer
+👱🏻‍♂️ I'm a South Coast based full-stack developer
 
 🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code
 
