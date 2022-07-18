@@ -29,7 +29,11 @@
 [<img src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red'>](<LINK>)
 [<img src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white'>](<LINK>)
 
-</br> </br>
+</br> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendallgmason&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+
+</br> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendallgmason&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
