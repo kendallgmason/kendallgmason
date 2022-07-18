@@ -3,7 +3,9 @@
 
 👱🏻‍♂️ I'm a South Coast based full-stack developer
 
-🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code
+🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code.
+
+ ✍  Next things I'd like to learn are Python, AWS more, Azure and GCP. 
 
 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
 
