@@ -9,7 +9,7 @@
 
 👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
 
-📫 How to reach me: @kendallgcodes on twitter!
+📫 How to reach me: @vicar2coder on twitter!
 
 😄 Pronouns: he/him
 
