@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+nice+to+meet+you.+I'm+Kendall!)](https://git.io/typing-svg)
 
 
-👱🏻‍♂️ I'm a South Coast based full-stack developer
+👨🏻‍💻 Mid-Level DevOps & Cloud Engineer | Backend Developer
 
-🌱 I’m currently learning JavaScript, Node, SQL, React and Next.js with the School of Code.
+🌍 Based on the South Coast, with professional experience in AWS, CI/CD (Jenkins, GitLab), Docker, Node.js, and Python.
 
- ✍  Next things I'd like to learn are Python, AWS more, Azure and GCP. 
+📚 Currently preparing for the AWS Solutions Architect Associate certification, and expanding hands-on skills with Terraform, Kubernetes, and cloud automation projects.
 
-👯 I’m looking to collaborate on any project that'll allow me to learn and experiment!
+🤝 Open to collaborating on cloud, DevOps, or backend projects that push my skills further and solve real problems.
 
-📫 How to reach me: @vicar2coder on twitter!
+📫 Reach me here on LinkedIn or via email: kendall_mason@hotmail.com
 
 😄 Pronouns: he/him
 
-⚡ Fun fact(s): I love basketball, wwe and all things star wars! I also used to work as a vicar and celebrant! 
+⚡ Fun fact: I used to work as a vicar and celebrant, and outside of tech I’m passionate about Brazilian Jiu Jitsu, basketball, WWE, and all things Star Wars.
 
 
 
