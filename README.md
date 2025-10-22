@@ -1,41 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+nice+to+meet+you.+I'm+Kendall!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+Kendall!+Nice+to+meet+you.)](https://git.io/typing-svg)
 
+👨🏻‍💻 Software Engineer | React • TypeScript • AWS  
 
-👨🏻‍💻 Mid-Level DevOps & Cloud Engineer | Backend Developer
+🌍 Based on the South Coast (UK) — passionate about building meaningful, accessible, and cloud-powered web apps.
 
-🌍 Based on the South Coast, with professional experience in AWS, CI/CD (Jenkins, GitLab), Docker, Node.js, and Python.
+💡 Background in software engineering and cloud development, with experience across **React, Node.js, TypeScript, .NET, AWS**, and **CI/CD automation**.  
 
-📚 Currently preparing for the AWS Solutions Architect Associate certification, and expanding hands-on skills with Terraform, Kubernetes, and cloud automation projects.
+📚 AWS Cloud Practitioner certified | Currently preparing for the **AWS Developer – Associate** certification.  
+🧠 Practising **unit testing (Jest/RTL/xUnit)** and rebuilding projects in **TypeScript** to sharpen my craft.  
 
-🤝 Open to collaborating on cloud, DevOps, or backend projects that push my skills further and solve real problems.
+🤝 Open to **Software Engineer / Full-Stack Developer** roles and collaborations that combine creativity, code quality, and cloud efficiency.
 
-📫 Reach me here on LinkedIn or via email: kendall_mason@hotmail.com
+📫 Reach me via [LinkedIn](https://linkedin.com/in/YOUR-LINK) or 📧 **kendall_mason@hotmail.com**  
+😄 Pronouns: he/him  
 
-😄 Pronouns: he/him
+⚡ Fun fact: I used to work as a vicar and celebrant before moving into tech — I love seeing people and ideas grow. Outside of coding, I enjoy **Brazilian Jiu Jitsu, hiking, and Star Wars marathons**.  
 
-⚡ Fun fact: I used to work as a vicar and celebrant, and outside of tech I’m passionate about Brazilian Jiu Jitsu, basketball, WWE, and all things Star Wars.
+---
 
+### 🧩 Tech Stack
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Node.js](https://)]()
 
-
-### 👩🏾‍💻 Technologies
-
-[<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>](<LINK>)
-[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>](<LINK>)
-[<img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>](<LINK>)
-[<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>](<LINK>)
-[<img src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red'>](<LINK>)
-[<img src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white'>](<LINK>)
-
-</br> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendallgmason&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
-
-</br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendallgmason&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
