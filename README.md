@@ -11,7 +11,7 @@
 
 🤝 Open to **Software Engineer / Full-Stack Developer** roles and collaborations that combine creativity, code quality, and cloud efficiency.
 
-📫 Reach me via [LinkedIn]([https://www.linkedin.com/in/kendallgcodes/)) or 📧 **kendall_mason@hotmail.com**  
+📫 Reach me via [LinkedIn]([https://www.linkedin.com/in/kendallgcodes/) or 📧 **kendall_mason@hotmail.com**  
 😄 Pronouns: he/him  
 
 ⚡ Fun fact: I used to work as a vicar and celebrant before moving into tech — I love seeing people and ideas grow. Outside of coding, I enjoy **Brazilian Jiu Jitsu, hiking, and Star Wars marathons**.  
